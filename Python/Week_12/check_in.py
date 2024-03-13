@@ -1,2 +1,2 @@
-#i can do output!
+#I can do output!
 print("my name is laura")
